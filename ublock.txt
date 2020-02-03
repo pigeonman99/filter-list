@@ -1,3 +1,6 @@
+! Title: Pigeonman's Filter List
+! Description: Advanced filters for various websites
+! Version: 1.0.1
 sfgate.com##.s2nFrameHost
 sfgate.com##div[style*="z-index: 100000000"]
 sfgate.com##html:style(overflow: auto !important)
