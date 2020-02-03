@@ -1,0 +1,18 @@
+sfgate.com##.s2nFrameHost
+sfgate.com##div[style*="z-index: 100000000"]
+sfgate.com##html:style(overflow: auto !important)
+
+btbtt.co##.width.imgs_1
+btbtt.co##.wrapper_bg_c.hidden-xs
+btbtt.co###wrapper2 > .width > .error
+btbtt.co###wrapper2 > .width.border
+btbtt.co/view/image/QT_QT.jpg
+
+nytimes.com##.css-1bd8bfl
+nytimes.com###gateway-content
+nytimes.com##.MAG_web_anon_new-journey-rollout
+nytimes.com##.css-mcm29f:style(overflow: auto !important)
+
+appledaily.com###articleOmo
+appledaily.com##.paywall_fade
+appledaily.com##.article_body:style(overflow:auto !important; height: auto !important)
