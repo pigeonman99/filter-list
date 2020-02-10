@@ -19,3 +19,7 @@ nytimes.com##.css-mcm29f:style(overflow: auto !important)
 appledaily.com###articleOmo
 appledaily.com##.paywall_fade
 appledaily.com##.article_body:style(overflow:auto !important; height: auto !important)
+
+! remove login prompt after scrolling for a few pages
+instagram.com##.RnEpo.Yx5HN
+instagram.com##body:style(overflow: auto !important)
