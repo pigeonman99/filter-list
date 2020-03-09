@@ -23,3 +23,6 @@ appledaily.com##.article_body:style(overflow:auto !important; height: auto !impo
 ! remove login prompt after scrolling for a few pages
 instagram.com##.RnEpo.Yx5HN
 instagram.com##body:style(overflow: auto !important)
+
+! disable all ad popups from tvboxnow.com on clicking anywhere from the site
+tvboxnow.com$popup
