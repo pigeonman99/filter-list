@@ -2,7 +2,7 @@
 ! Description: Advanced filters for various websites
 ! Version: 1.0.1
 sfgate.com##.s2nFrameHost
-sfgate.com##div[style*="z-index: 1000000"]
+sfgate.com##div[style*="z-index: 2147483647"]
 sfgate.com##html:style(overflow: auto !important)
 
 btbtt.me##.width.imgs_1
