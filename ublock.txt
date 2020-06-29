@@ -26,3 +26,6 @@ instagram.com##body:style(overflow: auto !important)
 
 ! disable all ad popups from tvboxnow.com on clicking anywhere from the site
 tvboxnow.com$popup
+
+! remove buttons when hovering over an email (for split view, too easy to accidentally click on the hover buttons.)
+mail.google.com##.bq4.xY
