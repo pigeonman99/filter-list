@@ -31,3 +31,6 @@ tvboxnow.com$popup
 mail.google.com##.bq4.xY
 mail.google.com##.zA.aqw > .xW:style(display: inline !important)
 mail.google.com##.zA.aqw > .yf:style(display: inline !important)
+
+! remove logo
+lightning.force.com##.slds-global-header__logo:style(display: none)
