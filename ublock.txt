@@ -5,11 +5,11 @@ sfgate.com##.s2nFrameHost
 sfgate.com##div[style*="z-index: 2147483647"]
 sfgate.com##html:style(overflow: auto !important)
 
-btbtt.me##.width.imgs_1
-btbtt.me##.wrapper_bg_c.hidden-xs
-btbtt.me###wrapper2 > .width > .error
-btbtt.me###wrapper2 > .width.border
-btbtt.me/view/image/QT_QT.jpg
+btbtt16.com##.width.imgs_1
+btbtt16.com##.wrapper_bg_c.hidden-xs
+btbtt16.com###wrapper2 > .width > .error
+btbtt16.com###wrapper2 > .width.border
+btbtt16.com/view/image/QT_QT.jpg
 
 nytimes.com##.css-1bd8bfl
 nytimes.com###gateway-content
