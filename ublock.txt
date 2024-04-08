@@ -1,9 +1,13 @@
 ! Title: Pigeonman's Filter List
 ! Description: Advanced filters for various websites
-! Version: 1.0.1
+! Version: 1.0.2
 sfgate.com##.s2nFrameHost
 sfgate.com##div[style*="z-index: 2147483647"]
 sfgate.com##html:style(overflow: auto !important)
+
+sfchronicle.com##div.jcc.z1004
+sfchronicle.com##html:style(overflow: auto !important)
+sfchronicle.com##div:matches-attr(data-client_id="/googleusercontent/")
 
 btbtt16.com##.width.imgs_1
 btbtt16.com##.wrapper_bg_c.hidden-xs
