@@ -38,3 +38,6 @@ mail.google.com##.zA.aqw > .yf:style(display: inline !important)
 
 ! remove logo
 lightning.force.com##.slds-global-header__logo:style(display: none)
+
+! remove "signin with google.com" prompt
+||accounts.google.com/gsi/*$xhr,script,3p
